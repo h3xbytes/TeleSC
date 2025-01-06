@@ -27,9 +27,3 @@ This script allows you to scrape messages and media from a Telegram channel.
   ```ini
   TELEGRAM_API_ID=your_api_id
   TELEGRAM_API_HASH=your_api_hash
-
-### 2.1 Alternate 
-
-
-####Option B: The Script Will Ask For Your Variables If You Choose Not To Provide Them Inside A .env File
-  
