@@ -2,20 +2,6 @@
 
 This script allows you to scrape messages and media from a Telegram channel.
 
-## Table of Contents
-
-- [Requirements](#requirements)
-- [Setup](#setup)
-  - [Obtain Telegram API Credentials](#1-obtain-telegram-api-credentials)
-  - [Set Up Environment Variables](#2-set-up-environment-variables)
-  - [Install Dependencies](#3-install-dependencies)
-- [Running the Script](#running-the-script)
-- [Authentication Process](#authentication-process)
-  - [Entering Your Phone Number](#entering-your-phone-number)
-  - [Entering the Telegram Code](#entering-the-telegram-code)
-- [Building an Executable](#building-an-executable)
-- [Important Notes](#important-notes)
-- [Disclaimer](#disclaimer)
 
 ## Requirements
 
